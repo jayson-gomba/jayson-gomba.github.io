@@ -26,4 +26,16 @@
  * Deliberately practice on the difficult stuff to gain full mastery of the material
  * Einstellung
 ### Procrastination and Memory
+#### Tackling Procrastination
+ * Eat your frogs first every day
+ * Track when you reach your goals and observe what does and doesn't work
+ * Commit yourself to certain routines and task each day
+ * Write your planned tasks out the night before
+ * Arrange your work into a series of small challenges
+ * Always make sure you and your zombies get lots of rewards
+ * Take a few minutes to savor the feeling of happiness and triumph, which gives your brain a chance to temporarily switch from focus to diffuse mode
+ * Deliberately delay rewards until you have finished a task
+ * Watch for procrastination cues
+ * Gain trust in your new system
+ * Have back up plans for when you still procrastinate
 ### Renaissance Learning
