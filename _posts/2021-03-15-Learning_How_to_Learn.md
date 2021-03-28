@@ -38,4 +38,15 @@
  * Watch for procrastination cues
  * Gain trust in your new system
  * Have back up plans for when you still procrastinate
+#### Deep dive into Memory
+* For long term memory, you need to practice and repeat in order to help store items you can retrieve them more easily
+* Practicing and repeating all in one day is a bad idea, its better to extend your practice over several days
+* Working memory is like a blackboard which has information that quickly fades
+* You can only hold four items in your working memory
+* When you master the material in some sense it is compacted so that the material can occupy less space in your working memory when you do bring it to mind
+* This frees up your mental thinking space so that it can more easily grapple with other ideas
+* We have outstanding visual and spatial memory which we can tap into which can help improve your memory
+* This can be done by trying to make a very memorable visual image representing one key item you want to remember
+* Another key to memorization is to create meaningful groups that simplify the material
+* The memory palace technique, placing memorable images in a scene that is familiar to you allows you to dip into the strength of your visual memory system, providing a particularly powerful way of grouping things you want to remember.
 ### Renaissance Learning
