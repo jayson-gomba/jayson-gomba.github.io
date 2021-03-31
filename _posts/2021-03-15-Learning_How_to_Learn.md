@@ -38,7 +38,7 @@
  * Gain trust in your new system.
  * Have back up plans for when you still procrastinate.
 #### Deep dive into Memory
-* For long term memory, you need to practice and repeat in order to help store items you can retrieve them more easily.
+* For long term memory, you need to practice and repeat in order to help store items so that you can retrieve them more easily.
 * Practicing and repeating all in one day is a bad idea, its better to extend your practice over several days.
 * Working memory is like a blackboard which has information that quickly fades.
 * You can only hold four items in your working memory.
