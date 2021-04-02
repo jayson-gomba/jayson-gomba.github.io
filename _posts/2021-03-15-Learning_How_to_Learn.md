@@ -3,7 +3,7 @@
 ### Learning
   * **Focused mode** is when you concentrate intently on smething you are trying to learn or to understand.
   * **Diffuse mode** is when you look at things broadly from a very different, big picture perspective.
-  * **Analogies** can help in learning by making comparisons between concept(s) in a way that arent't literally true, but helps explain the concept(s).
+  * **Metaphors** and **Analogies** can help in learning by realzing that one thing is somehow simialr to another and making comparisons between concept(s) in a way that aren't literally true, but helps explain the concept(s).
   * The **Pomodoro Technique** involves a 25 minute stretch of focused concentration, followed by a bit of mental relaxation. It can help with tackling procrastination.
   * It's through **practice** and **repatition** that we can help strengthen and enhance the neural structures we are building as we are learning some thing new. 
   * They are _four slots_ in our **working memory**. Things can fall out of those slots unless we keep repeating them to hold them in mind, however if we practiced and repeated something long enought we can get it into our **long term memory** and call it up later if we need it.
