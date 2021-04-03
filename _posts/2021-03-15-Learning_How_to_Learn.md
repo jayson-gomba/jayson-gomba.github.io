@@ -49,3 +49,7 @@
 * Another key to memorization is to create meaningful groups that simplify the material.
 * The memory palace technique, placing memorable images in a scene that is familiar to you allows you to dip into the strength of your visual memory system, providing a particularly powerful way of grouping things you want to remember.
 ### Renaissance Learning
+* One of the best things you can do to not only remember, but more easily understand concepts in many different fields, is to create a metaphor or analogy. Often, the more visual, the better.
+* Instead of whizzing through a problem, take a mental breath and then revisit what you've done with the bigger picture in mind, to see whether it makes sense.
+* Overconfidence in your results can result from using only one mode of thinking. By making it a point to discuss them with others, you can more easily catch where your thinking has gone astray.
+* Counterintuitive strategies such as the hard start jump to easy technique, can give your brain a chance to reflect on harder challenges even as you're focusing on other more straightforward problems.
